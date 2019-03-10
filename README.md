@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, to run the calculator you can:
 
 ### `npm start`
 
@@ -11,6 +11,26 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+Math Operation Functions available : 
+
+--> + add <br>
+--> - substract <br>
+--> * multipy <br>
+--> / divide <br>
+--> ^ power of N <br>
+--> √ square root
+
+How to use :
+1. Set the first value - Choose any number you want to calculate using calculator
+2. Set the math operator - Choose any operation you want
+3. Set the second value - Choose any number you want to calculate using calculator
+4. Calculate the result - Choose '=' to calculate the result
+5. Clear to start new calculation - Choose 'C' to start new calculation
+
+** For square root operation
+1. Choose the number you want to find the square root value
+2. Choose '√' 
 
 ### `npm test`
 
